@@ -36,6 +36,14 @@ The system utilizes MobileNetV2 transfer learning for efficient and accurate foo
 * Pillow (PIL)
 
 ---
+📸 Screenshots
+
+![Food Calorie Recognition](Demo1.png)
+![Food Calorie Recognition](Demo2.png)
+![Food Calorie Recognition](Demo3.png)
+
+
+---
 
 ## 📂 Project Directory Structure
 

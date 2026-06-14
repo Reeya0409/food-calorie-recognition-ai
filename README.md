@@ -38,10 +38,11 @@ The system utilizes MobileNetV2 transfer learning for efficient and accurate foo
 ---
 📸 Screenshots
 
-![Food Calorie Recognition](demo1.png)
-![Food Calorie Recognition](demo2.png)
-![Food Calorie Recognition](demo3.png)
-
+<p align="center">
+  <img src="demo1.png" width="30%" />
+  <img src="demo2.png" width="30%" />
+  <img src="demo3.png" width="30%" />
+</p>
 
 ---
 
